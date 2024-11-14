@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Yiyuan Li]
+# Hi there! 👋 I'm Yiyuan Li
 
 Welcome to my GitHub homepage! I'm passionate about technology, problem-solving, and continuous learning. With hands-on experience in streaming media management, a solid foundation in programming, and a love for tackling challenges, I'm here to create impactful projects and grow my skills.
 
