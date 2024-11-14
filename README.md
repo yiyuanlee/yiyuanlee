@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c.jpeg?raw=true" alt="Yiyuan Li Profile Picture" width="150" height="150" style="border-radius: 50%;">
+    <a href="https://github.com/yiyuanlee">
+        <img src="https://avatars.githubusercontent.com/u/yiyuanlee?v=4" alt="Yiyuan Li Profile Picture" width="150" height="150">
+    </a>
 </div>
 
 
