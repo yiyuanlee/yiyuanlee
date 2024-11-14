@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="YOUR_PROFILE_IMAGE_URL" alt="Yiyuan Li Profile Picture" width="150" height="150">
+</div>
+
 <h3 align="center">Hi there! 👋 I'm Yiyuan Li</h3>
 
 <p align="center">
