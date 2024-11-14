@@ -1,8 +1,9 @@
 <div align="center">
     <a href="https://github.com/yiyuanlee">
-        <img src="https://avatars.githubusercontent.com/u/yiyuanlee?v=4" alt="Yiyuan Li Profile Picture" width="150" height="150">
+        <img src="https://avatars.githubusercontent.com/u/48795728?v=4" alt="Yiyuan Li Profile Picture" width="150" height="150" style="border-radius: 50%;">
     </a>
 </div>
+
 
 
 <h3 align="center">Hi there! 👋 I'm Yiyuan Li</h3>
