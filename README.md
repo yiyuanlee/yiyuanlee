@@ -8,11 +8,6 @@ Welcome to my GitHub homepage! I'm passionate about technology, problem-solving,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div align="left">
-    <a href="http://www.instagram.com/uamos_7" target="_blank">
-        <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram" width="40" height="40"/>
-    </a>
-</div>
 <a href="mailto:liyiyuanzhuhai@gmail.com"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
