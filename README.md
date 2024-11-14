@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="[YOUR_PROFILE_IMAGE_URL](https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c.jpeg)" alt="Yiyuan Li Profile Picture" width="150" height="150">
+    <img src="(https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c.jpeg)" alt="Yiyuan Li Profile Picture" width="150" height="150">
 </div>
 
 <h3 align="center">Hi there! 👋 I'm Yiyuan Li</h3>
