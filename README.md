@@ -51,7 +51,7 @@ Welcome to my GitHub homepage! I'm passionate about technology, problem-solving,
 ---
 
 ### 📈 GitHub Stats
-![Yiyuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yiyuanlee&show_icons=true&theme=default)
+![Yiyuan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yiyuanlee&show_icons=true&theme=default)
 
 ---
 
