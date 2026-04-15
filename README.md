@@ -1,61 +1,127 @@
+# Yiyuan Li | 李逸远
+
 <div align="center">
     <a href="https://github.com/yiyuanlee">
         <img src="https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true" alt="Yiyuan Li Profile Picture" width="150" height="150">
     </a>
+    <br><br>
+    <a href="https://x.com/1dafe23xltdrtrc?s=21">
+        <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" height="28">
+    </a>
+    <a href="mailto:liyiyuanzhuhai@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="28">
+    </a>
+    <a href="https://github.com/yiyuanlee">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="28">
+    </a>
 </div>
 
+---
 
+## 👋 Hi there!
 
-<h3 align="center">Hi there! 👋 I'm Yiyuan Li</h3>
+**A-share Market Quant | Data Visualization Enthusiast | Python/TypeScript Developer | Melbourne 🦘**
+
+Welcome to my GitHub homepage! I'm passionate about technology, quantitative finance, and building projects that solve real problems. With hands-on experience in streaming media management, a solid foundation in programming, and a love for tackling challenges, I'm here to create impactful projects and grow my skills.
+
+---
+
+## 🏠 Pinned Repositories
 
 <p align="center">
-Welcome to my GitHub homepage! I'm passionate about technology, problem-solving, and continuous learning. With hands-on experience in streaming media management, a solid foundation in programming, and a love for tackling challenges, I'm here to create impactful projects and grow my skills.
+    <a href="https://github.com/yiyuanlee/AlphaFlow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yiyuanlee&repo=AlphaFlow&theme=radical" alt="AlphaFlow">
+    </a>
+    <br>
+    <a href="https://github.com/yiyuanlee/morphix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yiyuanlee&repo=morphix&theme=radical" alt="Morphix">
+    </a>
+    <br>
+    <a href="https://github.com/yiyuanlee/AShare-Engine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yiyuanlee&repo=AShare-Engine&theme=radical" alt="AShare-Engine">
+    </a>
+    <br>
+    <a href="https://github.com/yiyuanlee/VIX_tracker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yiyuanlee&repo=VIX_tracker&theme=radical" alt="VIX Tracker">
+    </a>
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Featured Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| **[AlphaFlow](https://github.com/yiyuanlee/AlphaFlow)** | Quantitative trading system for A-share market | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[Morphix](https://github.com/yiyuanlee/morphix)** | Lightweight transformation/morphing tool | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **[AShare-Engine](https://github.com/yiyuanlee/AShare-Engine)** | Open-source A-share quantitative stock selection and data management system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[VIX_tracker](https://github.com/yiyuanlee/VIX_tracker)** | Market volatility monitor with automated email alerts via GitHub Actions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[HotSpot](https://github.com/yiyuanlee/HotSpot)** | Real-time trend aggregator for Weibo and Zhihu | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **[EPL-shot-maps](https://github.com/yiyuanlee/EPL-shot-maps)** | Premier League shot maps and efficiency charts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[melb_apt_rater](https://github.com/yiyuanlee/melb_apt_rater)** | Melbourne apartment review web app | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **[secret_santa](https://github.com/yiyuanlee/secret_santa)** | Festive Secret Santa generator with React + Tailwind | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 <p align="left">
-<a href="mailto:liyiyuanzhuhai@gmail.com"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="28">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="28">
+    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="28">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="28">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="28">
+</p>
+
+**Frameworks & Libraries**
+<p align="left">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="28">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="28">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" height="28">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="28">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="28">
+</p>
+
+**Tools & Infrastructure**
+<p align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="28">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="28">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="28">
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
+## 💼 Experience
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
+- **Internship @ Sina Leju (Sina Real Estate)** — Streaming Media Operations
+  - Managed streaming media operations, ensured smooth content delivery, and optimized user experience
+  - Enhanced problem-solving skills and gained insights into media operations and cross-functional collaboration
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
+---
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+## 📝 About Me
+
+- 🔭 Currently working on **AlphaFlow** (A-share quantitative trading)
+- 🌱 Learning more about **quantitative finance** and **machine learning**
+- ⚡ Fun fact: Built a [Secret Santa](https://github.com/yiyuanlee/secret_santa) generator and an [EPL shot maps](https://github.com/yiyuanlee/EPL-shot-maps) visualizer!
+- 🏏 Cricket enthusiast | ⚽ Man United fan
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+    <a href="https://x.com/1dafe23xltdrtrc?s=21">
+        <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" height="24">
+    </a>
+    <a href="mailto:liyiyuanzhuhai@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="24">
+    </a>
 </p>
 
 ---
 
-### 📝 About Me
-- **Internship Experience**: Previously interned at **Sina Leju (Sina Real Estate)**, where I managed streaming media operations, ensured smooth content delivery, and optimized user experience. This role enhanced my problem-solving skills and gave me valuable insights into media operations and cross-functional collaboration.
-- **Problem Solver**: Skilled in breaking down complex issues and finding efficient solutions. I thrive in dynamic environments and enjoy taking on challenges.
-- **Relationship Builder**: Strong interpersonal skills and a team-oriented mindset, with an emphasis on effective communication and collaboration.
-- **Active Lifestyle**: Sports enthusiast and believer in maintaining a healthy work-life balance for optimum productivity and creativity.
-
----
-
-### 📈 GitHub Stats
-![Yiyuan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yiyuanlee&show_icons=true&theme=default)
-
----
-
-### 🌱 Currently Learning
-I'm currently exploring advanced machine learning algorithms, cloud computing platforms, and enhancing my full-stack development skills to build versatile and scalable applications.
-
-Thanks for visiting my GitHub profile! Let's connect, collaborate, and create something amazing together. 😊
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yiyuanlee&label=Profile+Views&color=radical&style=flat" alt="Profile Views">
+</p>
