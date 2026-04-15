@@ -29,16 +29,8 @@ Welcome to my GitHub homepage! I'm passionate about technology, quantitative fin
 ## 🏠 Pinned Repositories
 
 <p align="center">
-    <a href="https://github.com/yiyuanlee/AlphaFlow">
-        <img src="https://img.shields.io/badge/AlphaFlow-Python%20A-share%20Quant-3776AB?style=flat&logo=github" alt="AlphaFlow" height="28">
-    </a>
-    &nbsp;
     <a href="https://github.com/yiyuanlee/morphix">
         <img src="https://img.shields.io/badge/Morphix-JavaScript%20Tool-F7DF1E?style=flat&logo=github&logoColor=black" alt="Morphix" height="28">
-    </a>
-    &nbsp;
-    <a href="https://github.com/yiyuanlee/AShare-Engine">
-        <img src="https://img.shields.io/badge/AShare--Engine-A-share%20Quant-3776AB?style=flat&logo=github" alt="AShare-Engine" height="28">
     </a>
     &nbsp;
     <a href="https://github.com/yiyuanlee/VIX_tracker">
