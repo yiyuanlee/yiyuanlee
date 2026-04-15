@@ -97,7 +97,7 @@ Welcome to my GitHub homepage! I'm passionate about technology, quantitative fin
 - 🔭 Currently working on **AlphaFlow** (A-share quantitative trading)
 - 🌱 Learning more about **quantitative finance** and **machine learning**
 - ⚡ Fun fact: Built a [Secret Santa](https://github.com/yiyuanlee/secret_santa) generator and an [EPL shot maps](https://github.com/yiyuanlee/EPL-shot-maps) visualizer!
-- ⚽ Football fan | 🏏 Cricket enthusiast
+- ⚽ Football fan
 
 ---
 
