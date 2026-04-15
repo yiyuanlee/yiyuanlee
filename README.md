@@ -105,10 +105,11 @@ Welcome to my GitHub homepage! I'm passionate about technology, quantitative fin
 
 <p align="left">
     <a href="https://x.com/1dafe23xltdrtrc?s=21">
-        <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" height="24">
+        <img src="https://img.shields.io/badge/Follow%20on%20X-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X" height="24">
     </a>
+    &nbsp;
     <a href="mailto:liyiyuanzhuhai@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="24">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="24">
     </a>
 </p>
 
