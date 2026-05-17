@@ -1,8 +1,10 @@
 # Yiyuan Li
 
-[![Yiyuan Li Profile Picture](https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true)](https://github.com/yiyuanlee)
+<img src="https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true" width="150" alt="Yiyuan Li" align="left" />
 
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/1dafe23xltdrtrc?s=21) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liyiyuanzhuhai@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yiyuanlee)
+
+<br clear="left"/>
 
 ---
 
@@ -57,25 +59,53 @@ Passionate about building digital products, quantitative finance, and data-drive
 
 ## 💼 Experience
 
-- **E-commerce Entrepreneur (Australia)**
-  - Built and operate an Australian headless Shopify store
-  - Integrated Storefront API + custom frontend for optimized UX
-  - Product data management, digital marketing, and conversion optimization
+### E-commerce Entrepreneur (Australia) | 2024–Present
+- **Built and operate an Australian headless Shopify store** from scratch
+  - Custom frontend integrated with Shopify Storefront API (GraphQL) for optimized UX
+  - Node.js/Express proxy server bridging frontend and Shopify backend
+  - Implemented multilingual product catalog, flavor filtering (50+ products), and localStorage persistence
+  - Set up GitHub Actions CI/CD pipeline for automated testing and deployment
+- **Digital marketing**: SEO optimization, social media integration, and conversion rate optimization
+- Tech used: Shopify API, Node.js, Express, JavaScript, CSS, GitHub Actions
 
-- **Football Tactical Content Creator**
-  - Running a WeChat/YouTube football tactical analysis channel
-  - Data visualization (shot maps, heatmaps) + content production
-  - Growing engaged audience through data-driven football insights
+### Football Tactical Content Creator | 2023–Present
+- **Run a football tactical analysis WeChat/YouTube channel** with growing audience
+  - Data visualization: Premier League shot maps, heatmaps, passing networks
+  - Content production: match analysis, tactical breakdowns, player evaluations
+  - Used Python (Pandas, Matplotlib) for custom data visualizations
+- Built [EPL-shot-maps](https://github.com/yiyuanlee/EPL-shot-maps) — Premier League shot efficiency charts
+- Growing an engaged community through data-driven football insights
 
-- **Internship @ Sina Leju (Sina Real Estate)** — Streaming Media Operations
-  - Managed streaming media operations, ensured smooth content delivery
-  - Optimized user experience and cross-functional collaboration
+### AlphaFlow — Quantitative Trading System | 2024–Present
+- **Automated quantitative trading system** for Interactive Brokers (IBKR) small accounts
+  - Trend-following strategy with 200-day SMA filter + RSI confirmation + ATR-based dynamic stops
+  - Backtested 2022–2026: **42% total return, 28% max drawdown**
+  - Built with Python + Backtrader; live trading via IBKR API
+- Tech used: Python, Backtrader, Pandas, NumPy, Interactive Brokers API
+
+### WhatToEatToday — WeChat Mini Program | 2024
+- **Built and published a WeChat mini program** with 40+ food items and flavor filtering
+  - Native WeChat development (WXML/WXSS/JavaScript), no external dependencies
+  - Features: random food recommendation, flavor filters (辣/清淡/素食/快捷), history tracking
+  - Successfully merged to main; zero external npm packages required
+- Tech used: JavaScript, WXML, WXSS, WeChat DevTools
+
+### scaffoldr-cli — NPM CLI Tool | 2024
+- **Published `create-scaffoldr` npm package** for rapid project scaffolding
+  - Command: `npx scaffoldr` — generates customizable project templates
+  - Implemented CI/CD with GitHub Actions (build + npm publish workflow)
+- Tech used: TypeScript, Node.js, NPM, GitHub Actions, Semantic Versioning
+
+### Internship @ Sina Leju (Sina Real Estate) | 2023
+- **Streaming Media Operations** at China's leading real estate media platform
+  - Managed streaming content delivery, optimized user experience
+  - Gained insights into media operations and cross-functional collaboration
 
 ---
 
 ## 📝 About Me
 
-- 🔭 Currently working on **AlphaFlow** (quantitative trading) and **e-commerce growth**
+- 🔭 Currently building **e-commerce business** and developing **AlphaFlow** trading system
 - 🌱 Learning more about **quantitative finance**, **ML**, and **e-commerce scaling**
 - ⚡ Fun fact: Built an [EPL shot maps](https://github.com/yiyuanlee/EPL-shot-maps) visualizer and a [Secret Santa](https://github.com/yiyuanlee/secret_santa) generator!
 - ⚽ Football fan | 📊 Data enthusiast | 🛒 E-commerce builder
