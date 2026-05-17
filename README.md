@@ -28,6 +28,13 @@ Passionate about building digital products, quantitative finance, and data-drive
 
 ---
 
+## 📊 GitHub Stats
+
+![Yiyuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yiyuanlee&theme=default&show_icons=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiyuanlee&layout=compact&langs_count=6)
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Language |
