@@ -1,10 +1,16 @@
 # Yiyuan Li
 
-<img src="https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true" width="150" alt="Yiyuan Li" align="left" />
+<!-- Avatar: centered, fixed width -->
+<div align="center">
+  <img src="https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true" width="150" alt="Yiyuan Li" />
+</div>
 
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/1dafe23xltdrtrc?s=21) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liyiyuanzhuhai@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yiyuanlee)
-
-<br clear="left"/>
+<!-- Social links: centered below avatar -->
+<div align="center" style="margin-top: 8px;">
+  <a href="https://x.com/1dafe23xltdrtrc?s=21" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" style="display: inline-block;"/></a>
+  <a href="mailto:liyiyuanzhuhai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="display: inline-block; margin-left: 8px;"/></a>
+  <a href="https://github.com/yiyuanlee"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="display: inline-block; margin-left: 8px;"/></a>
+</div>
 
 ---
 
