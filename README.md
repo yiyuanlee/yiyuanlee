@@ -1,42 +1,22 @@
 # Yiyuan Li
 
-<div align="center">
-    <a href="https://github.com/yiyuanlee">
-        <img src="https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true" alt="Yiyuan Li Profile Picture" width="150" height="150">
-    </a>
-    <br><br>
-    <a href="https://x.com/1dafe23xltdrtrc?s=21">
-        <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" height="28">
-    </a>
-    <a href="mailto:liyiyuanzhuhai@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="28">
-    </a>
-    <a href="https://github.com/yiyuanlee">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="28">
-    </a>
-</div>
+[![Yiyuan Li Profile Picture](https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true)](https://github.com/yiyuanlee)
+
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/1dafe23xltdrtrc?s=21) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liyiyuanzhuhai@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yiyuanlee)
 
 ---
 
 ## 👋 Hi there!
 
-**A-share Market Quant | Data Visualization Enthusiast | Python/TypeScript Developer | Melbourne 🦘**
+**E-commerce Entrepreneur | A-share Quant | Python/TypeScript Developer | Melbourne 🦘**
 
-Welcome to my GitHub homepage! I'm passionate about technology, quantitative finance, and building projects that solve real problems. With hands-on experience in streaming media management, a solid foundation in programming, and a love for tackling challenges, I'm here to create impactful projects and grow my skills.
+Passionate about building digital products, quantitative finance, and data-driven solutions. I run an Australian e-commerce independent website and grow a football tactical analysis social media audience — turning real-world experience into technical skills.
 
 ---
 
 ## 🏠 Pinned Repositories
 
-<p align="center">
-    <a href="https://github.com/yiyuanlee/morphix">
-        <img src="https://img.shields.io/badge/Morphix-JavaScript%20Tool-F7DF1E?style=flat&logo=github&logoColor=black" alt="Morphix" height="28">
-    </a>
-    &nbsp;
-    <a href="https://github.com/yiyuanlee/VIX_tracker">
-        <img src="https://img.shields.io/badge/VIX--tracker-Volatility%20Monitor-3776AB?style=flat&logo=github" alt="VIX Tracker" height="28">
-    </a>
-</p>
+[![AlphaFlow](https://img.shields.io/badge/AlphaFlow-Quant%20Trading-3776AB?style=flat&logo=github&logoColor=white)](https://github.com/yiyuanlee/AlphaFlow) [![Morphix](https://img.shields.io/badge/Morphix-JS%20Tool-F7DF1E?style=flat&logo=github&logoColor=black)](https://github.com/yiyuanlee/morphix) [![VIX Tracker](https://img.shields.io/badge/VIX--tracker-Volatility%20Monitor-3776AB?style=flat&logo=github)](https://github.com/yiyuanlee/VIX_tracker)
 
 ---
 
@@ -44,73 +24,64 @@ Welcome to my GitHub homepage! I'm passionate about technology, quantitative fin
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[AlphaFlow](https://github.com/yiyuanlee/AlphaFlow)** | Quantitative trading system for A-share market | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[Morphix](https://github.com/yiyuanlee/morphix)** | Lightweight transformation/morphing tool | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[AShare-Engine](https://github.com/yiyuanlee/AShare-Engine)** | Open-source A-share quantitative stock selection and data management system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[AlphaFlow](https://github.com/yiyuanlee/AlphaFlow)** | Automated quantitative trading system with 200-day SMA filter + RSI confirmation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[WhatToEatToday](https://github.com/yiyuanlee/WhatToEatToday)** | WeChat mini program for food recommendations (40+ dishes) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **[Morphix](https://github.com/yiyuanlee/morphix)** | Lightweight data transformation/morphing tool | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **[VIX_tracker](https://github.com/yiyuanlee/VIX_tracker)** | Market volatility monitor with automated email alerts via GitHub Actions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **[HotSpot](https://github.com/yiyuanlee/HotSpot)** | Real-time trend aggregator for Weibo and Zhihu | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 | **[EPL-shot-maps](https://github.com/yiyuanlee/EPL-shot-maps)** | Premier League shot maps and efficiency charts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **[melb_apt_rater](https://github.com/yiyuanlee/melb_apt_rater)** | Melbourne apartment review web app | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **[secret_santa](https://github.com/yiyuanlee/secret_santa)** | Festive Secret Santa generator with React + Tailwind | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **[scaffoldr-cli](https://github.com/yiyuanlee/scaffoldr-cli)** | CLI scaffolding tool (create-scaffoldr npm package) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-<p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="28">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="28">
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="28">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="28">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="28">
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Frameworks & Libraries**
-<p align="left">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="28">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="28">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" height="28">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="28">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="28">
-</p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Backtrader](https://img.shields.io/badge/Backtrader-Quants-008F8C?style=flat&logo=backtrader&logoColor=white)
+
+**E-commerce & Marketing**
+
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat&logo=shopify&logoColor=white) ![Headless%20Commerce](https://img.shields.io/badge/Headless-AE7FFF?style=flat&logo=headless&logoColor=black) ![WeChat%20Mini%20Program](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)
 
 **Tools & Infrastructure**
-<p align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="28">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="28">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="28">
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
+- **E-commerce Entrepreneur (Australia)**
+  - Built and operate an Australian headless Shopify store
+  - Integrated Storefront API + custom frontend for optimized UX
+  - Product data management, digital marketing, and conversion optimization
+
+- **Football Tactical Content Creator**
+  - Running a WeChat/YouTube football tactical analysis channel
+  - Data visualization (shot maps, heatmaps) + content production
+  - Growing engaged audience through data-driven football insights
+
 - **Internship @ Sina Leju (Sina Real Estate)** — Streaming Media Operations
-  - Managed streaming media operations, ensured smooth content delivery, and optimized user experience
-  - Enhanced problem-solving skills and gained insights into media operations and cross-functional collaboration
+  - Managed streaming media operations, ensured smooth content delivery
+  - Optimized user experience and cross-functional collaboration
 
 ---
 
 ## 📝 About Me
 
-- 🔭 Currently working on **AlphaFlow** (A-share quantitative trading)
-- 🌱 Learning more about **quantitative finance** and **machine learning**
-- ⚡ Fun fact: Built a [Secret Santa](https://github.com/yiyuanlee/secret_santa) generator and an [EPL shot maps](https://github.com/yiyuanlee/EPL-shot-maps) visualizer!
-- ⚽ Football fan
+- 🔭 Currently working on **AlphaFlow** (quantitative trading) and **e-commerce growth**
+- 🌱 Learning more about **quantitative finance**, **ML**, and **e-commerce scaling**
+- ⚡ Fun fact: Built an [EPL shot maps](https://github.com/yiyuanlee/EPL-shot-maps) visualizer and a [Secret Santa](https://github.com/yiyuanlee/secret_santa) generator!
+- ⚽ Football fan | 📊 Data enthusiast | 🛒 E-commerce builder
 
 ---
 
 ## 🔗 Connect with Me
 
-<p align="left">
-    <a href="https://x.com/1dafe23xltdrtrc?s=21">
-        <img src="https://img.shields.io/badge/Follow%20on%20X-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X" height="24">
-    </a>
-    &nbsp;
-    <a href="mailto:liyiyuanzhuhai@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="24">
-    </a>
-</p>
-
-
+[![Follow on X](https://img.shields.io/badge/Follow%20on%20X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/1dafe23xltdrtrc?s=21) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liyiyuanzhuhai@gmail.com)
