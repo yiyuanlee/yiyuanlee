@@ -30,8 +30,8 @@ Passionate about building digital products, quantitative finance, and data-drive
 
 ## 📊 GitHub Stats
 
-[![Repos](https://img.shields.io/github/statistics/yiyuanlee?label=Repos&logo=github&style=flat-square)]
-[![Followers](https://img.shields.io/github/followers/yiyuanlee?label=Followers&logo=github&style=flat-square)]
+[![Repos](https://img.shields.io/badge/dynamic/json?color=informational&label=Repos&logo=github&query=$.public_repos&url=https://api.github.com/users/yiyuanlee)]
+[![Followers](https://img.shields.io/badge/dynamic/json?color=informational&label=Followers&logo=github&query=$.followers&url=https://api.github.com/users/yiyuanlee)]
 
 ---
 
