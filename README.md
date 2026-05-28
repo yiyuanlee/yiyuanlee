@@ -46,6 +46,8 @@ Passionate about building digital products, quantitative finance, and data-drive
 | **[HotSpot](https://github.com/yiyuanlee/HotSpot)** | Real-time trend aggregator for Weibo and Zhihu | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 | **[EPL-shot-maps](https://github.com/yiyuanlee/EPL-shot-maps)** | Premier League shot maps and efficiency charts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **[melb_apt_rater](https://github.com/yiyuanlee/melb_apt_rater)** | Melbourne apartment review web app | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **[TouchBarCommander](https://github.com/yiyuanlee/TouchBarCommander)** | Lightweight macOS Touch Bar utility with live system monitoring, shell script widgets, and hot-reloading JSON config via DFRFoundation private APIs | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) |
+
 | **[scaffoldr-cli](https://github.com/yiyuanlee/scaffoldr-cli)** | CLI scaffolding tool (create-scaffoldr npm package) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 
 ---
