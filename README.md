@@ -1,132 +1,157 @@
-# Yiyuan Li
-
-<!-- Avatar: centered, fixed width -->
+<!-- Header and Welcome -->
 <div align="center">
-  <img src="https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true" width="150" alt="Yiyuan Li" />
+  <img src="https://github.com/yiyuanlee/yiyuanlee/blob/main/9DC2AB8F-D740-48E6-9E1C-6C5F72A32B83_1_105_c-modified.png?raw=true" width="130" alt="Yiyuan Li" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
+
+  <h1>Hi, I'm Yiyuan Li 👋</h1>
+  
+  <p align="center">
+    <strong>E-commerce Entrepreneur | A-share Quant Developer | Python & TypeScript Builder</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://x.com/1dafe23xltdrtrc?s=21" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    &nbsp;&nbsp;
+    <a href="mailto:liyiyuanzhuhai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/yiyuanlee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 </div>
 
-<!-- Social links: centered below avatar -->
-<div align="center" style="margin-top: 8px;">
-  <a href="https://x.com/1dafe23xltdrtrc?s=21" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" style="display: inline-block;"/></a>
-  <a href="mailto:liyiyuanzhuhai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="display: inline-block; margin-left: 8px;"/></a>
-  <a href="https://github.com/yiyuanlee"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="display: inline-block; margin-left: 8px;"/></a>
+---
+
+### 👋 About Me
+
+I am a digital product builder, quantitative trader, and sports analytics creator currently based in **Melbourne, Australia 🦘**. 
+
+By combining my background in running an independent headless e-commerce store with my experience in data-driven sports visualizations and quant finance, I specialize in engineering systems that bridge the gap between complex algorithms and practical applications. 
+
+* 🔭 **Currently Building:** E-commerce solutions & [AlphaFlow](https://github.com/yiyuanlee/AlphaFlow) trading systems
+* 🌱 **Always Learning:** Quantitative finance, Machine Learning, and E-commerce scaling strategies
+* ⚽ **Interests:** Football tactics, sports data viz, and building workflows that automate my daily routine
+
+---
+
+### 🚀 Featured Projects Portfolio
+
+#### 📈 Quantitative Trading & Finance
+* **[AlphaFlow](https://github.com/yiyuanlee/AlphaFlow)** 
+  An automated quantitative trading system designed for Interactive Brokers (IBKR) small accounts. Combines a 200-day SMA trend filter, RSI momentum confirmations, and ATR-based dynamic trailing stops. 
+  * *Results:* Backtested 2022–2026: **+42% total return, 28% max drawdown**.
+  * *Tech Stack:* `Python` `Backtrader` `Pandas` `NumPy` `IBKR API`
+* **[VIX Tracker](https://github.com/yiyuanlee/VIX_tracker)** 
+  A lightweight market volatility monitor that tracks the CBOE VIX index and sends automated email alerts via GitHub Actions when critical thresholds are crossed.
+  * *Tech Stack:* `Python` `yfinance` `GitHub Actions`
+
+#### 🏋️ Web Apps, Mobile & Tools
+* **[Morphix](https://github.com/yiyuanlee/morphix)**
+  An AI-driven fitness planning engine that dynamically generates 7-day personalized workout routines and nutrition targets based on body metrics, goals, and experience levels.
+  * *Tech Stack:* `HTML5` `Vanilla CSS3` `JavaScript ES6` `html2pdf.js`
+  * *Live Demo:* [yiyuanlee.github.io/morphix](https://yiyuanlee.github.io/morphix)
+* **[Apple Music Playlist Generator](https://github.com/yiyuanlee/music_list)**
+  A music recommendation tool that leverages Last.fm APIs to discover new music based on target artists or tracks, and imports them seamlessly into Apple Music via MusicKit JS.
+  * *Tech Stack:* `Vanilla JS` `Apple MusicKit JS API` `Last.fm API` `Node.js`
+* **[melb_apt_rater](https://github.com/yiyuanlee/melb_apt_rater)**
+  A Melbourne apartment review web application, providing user-driven reviews and score rating criteria.
+  * *Tech Stack:* `React` `TypeScript`
+* **[WhatToEatToday](https://github.com/yiyuanlee/WhatToEatToday)**
+  A WeChat mini-program for food recommendations featuring custom taste, spiciness, and dietary filters.
+  * *Tech Stack:* `WeChat Mini Program API` `WXML` `WXSS` `JavaScript`
+* **[TouchBarCommander](https://github.com/yiyuanlee/TouchBarCommander)**
+  A macOS Touch Bar utility featuring custom widgets, live system monitors, and hot-reloading configurations, implemented using private DFRFoundation APIs.
+  * *Tech Stack:* `Swift` `macOS Cocoa APIs`
+* **[scaffoldr-cli](https://github.com/yiyuanlee/scaffoldr-cli)**
+  An NPM CLI scaffolding utility published as `create-scaffoldr` to bootstrap customizable developer templates instantly.
+  * *Tech Stack:* `TypeScript` `Node.js` `NPM` `GitHub Actions`
+
+#### ⚽ Sports Analytics & Data Visualizations
+* **[FPL Standing Visualizer](https://github.com/yiyuanlee/fpl_standing_gif)**
+  A Python-based visualizer that pulls live Fantasy Premier League (FPL) mini-league standings data and outputs 24fps animated progression videos or loopable GIFs of league rankings.
+  * *Tech Stack:* `Python` `FPL API` `FFmpeg`
+* **[EPL Shot Maps](https://github.com/yiyuanlee/EPL-shot-maps)**
+  A soccer analytics dashboard that charts shot locations, target coordinates, and overall shooting efficiency for teams and players in the Premier League.
+  * *Tech Stack:* `Python` `Pandas` `Matplotlib`
+
+---
+
+### 🛠️ Core Tech Stack
+
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages</strong><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Frameworks & Libraries</strong><br />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>E-commerce & Marketing</strong><br />
+      <img src="https://img.shields.io/badge/Shopify%20API-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+      <img src="https://img.shields.io/badge/Headless%20Commerce-AE7FFF?style=flat-square&logo=shopify&logoColor=white" alt="Headless Commerce" />
+      <img src="https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>DevOps & Tools</strong><br />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Experience & Operations
+
+#### 🚀 E-commerce Entrepreneur (Australia) | `2024 – Present`
+* **Architected and grew a headless Shopify storefront** in Australia.
+  * Designed custom frontend integrated with the Shopify Storefront API (GraphQL) to optimize user experience and site speed.
+  * Engineered a Node.js/Express proxy server bridging front-end clients with Shopify backend databases safely.
+  * Implemented a multilingual product catalog, flavor filtering (for 50+ products), and localStorage cart states.
+  * Configured GitHub Actions CI/CD pipelines for automated unit testing and direct static deployments.
+  * *Focus:* SEO optimization, digital marketing integration, and conversion funnel analytics.
+
+#### ⚽ Football Tactical Content Creator | `2023 – Present`
+* **Run a growing WeChat & YouTube channel** focused on visual analytics in football.
+  * Created custom Python visualization scripts (Pandas, Matplotlib, Highlight) to compile match maps, heatmaps, and passing networks.
+  * Developed the open-source [EPL-shot-maps](https://github.com/yiyuanlee/EPL-shot-maps) package to plot Premier League shooting profiles.
+  * Nurtured a highly engaged audience through data-driven analysis.
+
+#### 📈 Quantitative System Developer | `2024 – Present`
+* Developed and live-traded the automated [AlphaFlow](https://github.com/yiyuanlee/AlphaFlow) algorithm on Interactive Brokers.
+  * Researched, backtested, and optimized swing/trend strategies with custom parameter configurations.
+
+#### 🏢 Streaming Media Operations Intern (Sina Leju) | `2023`
+* Handled content distribution, streaming operations, and metadata curation at China's leading real estate media platform.
+
+---
+
+### 📊 GitHub Stats & Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yiyuanlee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Yiyuan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yiyuanlee&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Yiyuan's Streak Stats" />
 </div>
 
----
+<br />
 
-## 👋 Hi there!
-
-**E-commerce Entrepreneur | A-share Quant | Python/TypeScript Developer | Melbourne 🦘**
-
-Passionate about building digital products, quantitative finance, and data-driven solutions. I run an Australian e-commerce independent website and grow a football tactical analysis social media audience — turning real-world experience into technical skills.
-
----
-
-## 🏠 Pinned Repositories
-
-[![AlphaFlow](https://img.shields.io/badge/AlphaFlow-Quant%20Trading-3776AB?style=flat&logo=github&logoColor=white)](https://github.com/yiyuanlee/AlphaFlow) [![Morphix](https://img.shields.io/badge/Morphix-JS%20Tool-F7DF1E?style=flat&logo=github&logoColor=black)](https://github.com/yiyuanlee/morphix) [![VIX Tracker](https://img.shields.io/badge/VIX--tracker-Volatility%20Monitor-3776AB?style=flat&logo=github)](https://github.com/yiyuanlee/VIX_tracker)
-
----
-
-## 📊 GitHub Stats
-
-[![Repos](https://img.shields.io/badge/dynamic/json?color=informational&label=Repos&logo=github&query=$.public_repos&url=https://api.github.com/users/yiyuanlee)]
-[![Followers](https://img.shields.io/badge/dynamic/json?color=informational&label=Followers&logo=github&query=$.followers&url=https://api.github.com/users/yiyuanlee)]
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Language |
-|---------|-------------|----------|
-| **[AlphaFlow](https://github.com/yiyuanlee/AlphaFlow)** | Automated quantitative trading system with 200-day SMA filter + RSI confirmation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[WhatToEatToday](https://github.com/yiyuanlee/WhatToEatToday)** | WeChat mini program for food recommendations (40+ dishes) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[Morphix](https://github.com/yiyuanlee/morphix)** | Lightweight data transformation/morphing tool | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[VIX_tracker](https://github.com/yiyuanlee/VIX_tracker)** | Market volatility monitor with automated email alerts via GitHub Actions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[HotSpot](https://github.com/yiyuanlee/HotSpot)** | Real-time trend aggregator for Weibo and Zhihu | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
-| **[EPL-shot-maps](https://github.com/yiyuanlee/EPL-shot-maps)** | Premier League shot maps and efficiency charts | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **[melb_apt_rater](https://github.com/yiyuanlee/melb_apt_rater)** | Melbourne apartment review web app | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **[TouchBarCommander](https://github.com/yiyuanlee/TouchBarCommander)** | Lightweight macOS Touch Bar utility with live system monitoring, shell script widgets, and hot-reloading JSON config via DFRFoundation private APIs | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) |
-
-| **[scaffoldr-cli](https://github.com/yiyuanlee/scaffoldr-cli)** | CLI scaffolding tool (create-scaffoldr npm package) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Backtrader](https://img.shields.io/badge/Backtrader-Quants-008F8C?style=flat&logo=backtrader&logoColor=white)
-
-**E-commerce & Marketing**
-
-![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat&logo=shopify&logoColor=white) ![Headless%20Commerce](https://img.shields.io/badge/Headless-AE7FFF?style=flat&logo=headless&logoColor=black) ![WeChat%20Mini%20Program](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
----
-
-## 💼 Experience
-
-### E-commerce Entrepreneur (Australia) | 2024–Present
-- **Built and operate an Australian headless Shopify store** from scratch
-  - Custom frontend integrated with Shopify Storefront API (GraphQL) for optimized UX
-  - Node.js/Express proxy server bridging frontend and Shopify backend
-  - Implemented multilingual product catalog, flavor filtering (50+ products), and localStorage persistence
-  - Set up GitHub Actions CI/CD pipeline for automated testing and deployment
-- **Digital marketing**: SEO optimization, social media integration, and conversion rate optimization
-- Tech used: Shopify API, Node.js, Express, JavaScript, CSS, GitHub Actions
-
-### Football Tactical Content Creator | 2023–Present
-- **Run a football tactical analysis WeChat/YouTube channel** with growing audience
-  - Data visualization: Premier League shot maps, heatmaps, passing networks
-  - Content production: match analysis, tactical breakdowns, player evaluations
-  - Used Python (Pandas, Matplotlib) for custom data visualizations
-- Built [EPL-shot-maps](https://github.com/yiyuanlee/EPL-shot-maps) — Premier League shot efficiency charts
-- Growing an engaged community through data-driven football insights
-
-### AlphaFlow — Quantitative Trading System | 2024–Present
-- **Automated quantitative trading system** for Interactive Brokers (IBKR) small accounts
-  - Trend-following strategy with 200-day SMA filter + RSI confirmation + ATR-based dynamic stops
-  - Backtested 2022–2026: **42% total return, 28% max drawdown**
-  - Built with Python + Backtrader; live trading via IBKR API
-- Tech used: Python, Backtrader, Pandas, NumPy, Interactive Brokers API
-
-### WhatToEatToday — WeChat Mini Program | 2024
-- **Built and published a WeChat mini program** with 40+ food items and flavor filtering
-  - Native WeChat development (WXML/WXSS/JavaScript), no external dependencies
-  - Features: random food recommendation, flavor filters (辣/清淡/素食/快捷), history tracking
-  - Successfully merged to main; zero external npm packages required
-- Tech used: JavaScript, WXML, WXSS, WeChat DevTools
-
-### scaffoldr-cli — NPM CLI Tool | 2024
-- **Published `create-scaffoldr` npm package** for rapid project scaffolding
-  - Command: `npx scaffoldr` — generates customizable project templates
-  - Implemented CI/CD with GitHub Actions (build + npm publish workflow)
-- Tech used: TypeScript, Node.js, NPM, GitHub Actions, Semantic Versioning
-
-### Internship @ Sina Leju (Sina Real Estate) | 2023
-- **Streaming Media Operations** at China's leading real estate media platform
-  - Managed streaming content delivery, optimized user experience
-  - Gained insights into media operations and cross-functional collaboration
-
----
-
-## 📝 About Me
-
-- 🔭 Currently building **e-commerce business** and developing **AlphaFlow** trading system
-- 🌱 Learning more about **quantitative finance**, **ML**, and **e-commerce scaling**
-- ⚡ Fun fact: Built an [EPL shot maps](https://github.com/yiyuanlee/EPL-shot-maps) visualizer and a [Secret Santa](https://github.com/yiyuanlee/secret_santa) generator!
-- ⚽ Football fan | 📊 Data enthusiast | 🛒 E-commerce builder
-
----
-
-## 🔗 Connect with Me
-
-[![Follow on X](https://img.shields.io/badge/Follow%20on%20X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/1dafe23xltdrtrc?s=21) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liyiyuanzhuhai@gmail.com)
+<div align="center">
+  <strong>Feel free to explore my repositories, open an issue, or reach out for collaboration!</strong>
+</div>
