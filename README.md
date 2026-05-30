@@ -120,7 +120,7 @@ By combining my background in running an independent headless e-commerce store w
 
 ### 💼 Experience & Operations
 
-#### 🚀 E-commerce Entrepreneur (Australia) | `2024 – Present`
+#### 🚀 E-commerce Entrepreneur (Australia) | `2026.4 – Present`
 * **Architected and grew a headless Shopify storefront** in Australia.
   * Designed custom frontend integrated with the Shopify Storefront API (GraphQL) to optimize user experience and site speed.
   * Engineered a Node.js/Express proxy server bridging front-end clients with Shopify backend databases safely.
@@ -128,17 +128,17 @@ By combining my background in running an independent headless e-commerce store w
   * Configured GitHub Actions CI/CD pipelines for automated unit testing and direct static deployments.
   * *Focus:* SEO optimization, digital marketing integration, and conversion funnel analytics.
 
-#### ⚽ Football Tactical Content Creator | `2023 – Present`
+#### ⚽ Football Tactical Content Creator | `2026.4 – Present`
 * **Run a growing WeChat & YouTube channel** focused on visual analytics in football.
   * Created custom Python visualization scripts (Pandas, Matplotlib, Highlight) to compile match maps, heatmaps, and passing networks.
   * Developed the open-source [EPL-shot-maps](https://github.com/yiyuanlee/EPL-shot-maps) package to plot Premier League shooting profiles.
   * Nurtured a highly engaged audience through data-driven analysis.
 
-#### 📈 Quantitative System Developer | `2024 – Present`
+#### 📈 Quantitative System Developer | `2025.12 – Present`
 * Developed and live-traded the automated [AlphaFlow](https://github.com/yiyuanlee/AlphaFlow) algorithm on Interactive Brokers.
   * Researched, backtested, and optimized swing/trend strategies with custom parameter configurations.
 
-#### 🏢 Streaming Media Operations Intern (Sina Leju) | `2023`
+#### 🏢 Streaming Media Operations Intern (Sina Leju) | `2021`
 * Handled content distribution, streaming operations, and metadata curation at China's leading real estate media platform.
 
 ---
