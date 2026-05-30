@@ -146,7 +146,7 @@ By combining my background in running an independent headless e-commerce store w
 ### 📊 GitHub Stats & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiyuanlee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Yiyuan's GitHub Stats" />
+  <img src="https://github-readme-stats-uamos-projects.vercel.app/api?username=yiyuanlee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Yiyuan's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yiyuanlee&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Yiyuan's Streak Stats" />
 </div>
 
