@@ -31,7 +31,6 @@ Previously I've built e-commerce systems, quantitative trading infrastructure, a
 
 ## ⭐ Featured Projects
 
-> Pin these on my profile: **melb_apt_rater · AlphaFlow · PickStay · HotSpot**
 
 ### 🏢 [MelbScore](https://github.com/yiyuanlee/melb_apt_rater) — Full-Stack Community Platform
 
