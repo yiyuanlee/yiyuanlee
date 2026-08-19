@@ -63,14 +63,14 @@ A modular Python research and trading system for Interactive Brokers.
 |---|---|---|
 | [HotSpot](https://github.com/yiyuanlee/HotSpot) | Aggregates trending topics from five Chinese platforms and sends a resilient daily Feishu digest | Python · Streamlit · SQLite · GitHub Actions |
 | [AetherTab](https://github.com/yiyuanlee/AetherTab) | Replaces Chrome's new-tab page with a calm workspace for saving sessions and organizing links | JavaScript · Chrome MV3 · Chrome Sync |
-| [EPL Shot Maps](https://github.com/yiyuanlee/EPL-shot-maps) | Explores football shot data through visual analysis | Python |
-| [26 World Cup Predictor](https://github.com/yiyuanlee/26worldcup_predictor) | Models and presents tournament predictions | Python |
+| [EPL Shot Maps](https://github.com/yiyuanlee/EPL-shot-maps) | Generates Premier League shot maps, xG comparisons, and player-efficiency visuals from Understat or CSV data | Python · Streamlit · Understat |
+| [26 World Cup Predictor](https://github.com/yiyuanlee/26worldcup_predictor) | Predicts match outcomes from form, rankings, head-to-head data, and live odds through a web API | Python · FastAPI · Football APIs |
 
 ## Toolbox
 
 - **Languages:** TypeScript, JavaScript, Python, SQL
 - **Frontend:** Next.js, React, Tailwind CSS, HTML/CSS
-- **Backend & data:** PostgreSQL, Supabase, Redis, REST APIs, Server Actions
+- **Backend & data:** FastAPI, PostgreSQL, Supabase, Redis, REST APIs, Server Actions
 - **Quality & delivery:** Vitest, Playwright, pytest, GitHub Actions, Vercel
 
 ## Currently
