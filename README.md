@@ -40,14 +40,14 @@ A modular Python research and trading system for Interactive Brokers.
 
 **Stack:** Python · Backtrader · pytest · IBKR API · Yahoo Finance
 
-### ⚽ [26 World Cup Predictor](https://github.com/yiyuanlee/26worldcup_predictor)
+### ⚡ [Morphix](https://github.com/yiyuanlee/morphix) · [Live Demo](https://yiyuanlee.github.io/morphix)
 
-A football match prediction service that combines historical performance data with live market odds.
+A bilingual fitness planning engine that turns body metrics, goals, experience level, and lifestyle inputs into a personalized plan.
 
-- Engineers prediction inputs from head-to-head records, recent form, home/away performance, rankings, and implied probabilities
-- Exposes FastAPI endpoints for competitions, teams, data synchronization, and predictions, with a browser-based interface
+- Generates adaptive seven-day workouts, BMI and TDEE analysis, calorie and macro targets, and goal timelines through a level-aware calculation engine
+- Delivers real-time previews, local persistence, shareable deep links, and PDF export in a dependency-light static application with no required signup
 
-**Stack:** Python · FastAPI · football-data.org · The Odds API
+**Stack:** HTML5 · CSS3 · JavaScript ES6+ · Canvas API · html2pdf.js · GitHub Pages
 
 ## Core Technologies
 
