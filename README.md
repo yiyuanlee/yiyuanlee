@@ -2,14 +2,14 @@
 
 # Hi, I'm Yiyuan Li 👋
 
-**Full-Stack & Python Backend Developer**
+### Full-Stack Developer · Python Engineer
 
-Building production-ready web apps and data-driven backend systems · Open to global opportunities
+I build practical web products, data-backed systems, and reliable automation.
 
-📍 Melbourne, Australia · 🌏 Remote-friendly · 💼 Open to Work
+📍 Melbourne, Australia · 🌏 Open to remote and global teams
 
-[![Email](https://img.shields.io/badge/Email-liyiyuanzhuhai@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:liyiyuanzhuhai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Demo-PickStay-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://yiyuanlee.github.io/PickStay/)
+[![Email](https://img.shields.io/badge/Email-liyiyuanzhuhai%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:liyiyuanzhuhai@gmail.com)
+[![PickStay](https://img.shields.io/badge/Live-PickStay-000000?style=flat-square&logo=vercel&logoColor=white)](https://pickstay.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-yiyuanlee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yiyuanlee)
 
 </div>
@@ -18,131 +18,73 @@ Building production-ready web apps and data-driven backend systems · Open to gl
 
 ## About Me
 
-I'm a software developer focused on **full-stack web development** and **Python backend engineering**. I ship end-to-end products — from React/Next.js frontends and REST APIs to PostgreSQL data models, CI/CD pipelines, and automated backend jobs.
+I'm a Melbourne-based developer focused on full-stack applications and Python backend systems. I enjoy turning product ideas into deployed software—from interfaces and APIs to database design, security controls, testing, and CI/CD.
 
-Previously I've built e-commerce systems, quantitative trading infrastructure, and community web apps. I'm now targeting **full-stack and backend roles** in overseas markets (Australia, remote-first companies, and global startups).
+- I build with **TypeScript, Next.js, React, Python, and PostgreSQL**
+- I care about **clear architecture, secure server boundaries, graceful fallbacks, and testability**
+- I'm open to **full-stack and Python backend opportunities** in Australia and with remote teams
 
-- 🔭 **Currently building:** [MelbScore](https://github.com/yiyuanlee/melb_apt_rater) (Next.js + Supabase) and backend APIs for data products
-- 🌱 **Currently learning:** FastAPI, system design, Docker/Kubernetes, and interview prep (DSA + backend patterns)
-- 💬 **Ask me about:** Next.js App Router, Supabase/PostgreSQL, Python automation, or turning side projects into deployable products
-- 📫 **Reach me at:** liyiyuanzhuhai@gmail.com
+## Featured Projects
 
----
+### 🧭 [PickStay](https://github.com/yiyuanlee/PickStay) · [Live Demo](https://pickstay.vercel.app)
 
-## ⭐ Featured Projects
+A full-stack neighborhood recommender that matches travelers with places to stay based on seven weighted preferences.
 
+- Ranks **57 neighborhoods across 8 cities** with an explainable scoring engine and radar-chart comparisons
+- Supports authentication, saved preferences, favorites, and comparisons with **Supabase PostgreSQL + RLS**
+- Protects map API keys behind server-side endpoints, with **Redis caching, rate limiting, and mock fallback**
+- Uses **Vitest, Playwright, and GitHub Actions** for automated quality checks
 
-### 🏢 [MelbScore](https://github.com/yiyuanlee/melb_apt_rater) — Full-Stack Community Platform
+**Stack:** Next.js 16 · React 19 · TypeScript · Supabase · Upstash Redis · Vercel
 
-A "product-review style" apartment rating community for Melbourne renters.
+### 🏢 [MelbScore](https://github.com/yiyuanlee/melb_apt_rater) · [Live Demo](https://melbaptrater.vercel.app)
 
-- **Frontend:** Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS
-- **Backend:** Supabase PostgreSQL, Server Actions, RLS policies, DB triggers for live rating aggregation
-- **Ops:** Vercel deployment, environment-based secrets, IP-based anti-spam controls
-- **Why it matters:** Demonstrates full-stack ownership — auth-ready architecture, real DB design, and production deployment
+A community apartment-rating platform that helps Melbourne renters share real living experiences.
 
-### 📈 [AlphaFlow](https://github.com/yiyuanlee/AlphaFlow) — Python Quantitative Trading System
+- Combines apartment rankings, detailed reviews, and live aggregate scores
+- Uses PostgreSQL triggers to keep rating statistics consistent
+- Protects submissions with server-side validation, RLS policies, and hashed-IP rate limiting
 
-Automated trading system for Interactive Brokers with shared strategy modules across backtest and live trading.
+**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase PostgreSQL · Vercel
 
-- **Backend:** Python 3.10+, modular `alphaflow/` package, config-driven architecture
-- **Data & compute:** Backtrader backtests, walk-forward validation, indicator parity tests (pytest)
-- **Integrations:** IBKR API (ib_insync), Yahoo Finance, optional Polygon options data
-- **Why it matters:** Shows strong Python engineering — testing, reproducibility, and real-world API integration
+### 📈 [AlphaFlow](https://github.com/yiyuanlee/AlphaFlow)
 
-### 📍 [PickStay](https://github.com/yiyuanlee/PickStay) — Travel Neighborhood Recommender
+A modular Python research and trading system for Interactive Brokers.
 
-Interactive SPA that ranks city neighborhoods by 7 weighted preference dimensions with live map API enrichment.
+- Shares strategy and indicator logic across backtesting, walk-forward validation, and trading adapters
+- Uses configuration-driven workflows for reproducible experiments and risk controls
+- Includes indicator-parity tests to reduce drift between research and execution code
 
-- **Stack:** Vanilla HTML/CSS/JS (ES6+), no build step, GitHub Pages deployed
-- **Live Demo:** [yiyuanlee.github.io/PickStay](https://yiyuanlee.github.io/PickStay/)
-- **Highlights:** Weighted scoring algorithm, SVG radar charts, Google/AMap API integration, localStorage persistence
-- **Why it matters:** Proves frontend fundamentals and product sense without framework overhead
+**Stack:** Python · Backtrader · pytest · IBKR API · Yahoo Finance
 
-### 🔥 [HotSpot](https://github.com/yiyuanlee/HotSpot) — Python Data Aggregation Service
+## More Projects
 
-Real-time trending-topic aggregator across Weibo, Bilibili, Douyin, Xiaohongshu, and Zhihu.
+| Project | What it does | Stack |
+|---|---|---|
+| [HotSpot](https://github.com/yiyuanlee/HotSpot) | Aggregates trending topics from five Chinese platforms and sends a resilient daily Feishu digest | Python · Streamlit · SQLite · GitHub Actions |
+| [AetherTab](https://github.com/yiyuanlee/AetherTab) | Replaces Chrome's new-tab page with a calm workspace for saving sessions and organizing links | JavaScript · Chrome MV3 · Chrome Sync |
+| [EPL Shot Maps](https://github.com/yiyuanlee/EPL-shot-maps) | Explores football shot data through visual analysis | Python |
+| [26 World Cup Predictor](https://github.com/yiyuanlee/26worldcup_predictor) | Models and presents tournament predictions | Python |
 
-- **Stack:** Python, Streamlit, SQLite, Playwright, Pandas, Matplotlib
-- **Highlights:** Multi-engine scraping fallback, historical trend storage, scheduled snapshots
-- **Roadmap:** Refactoring into **FastAPI + Celery + Redis** (see learning plan below)
+## Toolbox
 
-### 🛠️ [scaffoldr-cli](https://github.com/yiyuanlee/scaffoldr-cli) — TypeScript CLI Tool
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Frontend:** Next.js, React, Tailwind CSS, HTML/CSS
+- **Backend & data:** PostgreSQL, Supabase, Redis, REST APIs, Server Actions
+- **Quality & delivery:** Vitest, Playwright, pytest, GitHub Actions, Vercel
 
-Extensible project scaffolder with plugin system, interactive wizard, and Jest tests.
+## Currently
 
-- **Stack:** TypeScript, Commander, Inquirer, Handlebars
-- **Why it matters:** Demonstrates Node.js tooling, DX focus, and test discipline
-
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Full-Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend & Data
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Learning-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
----
-
-## Other Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [AetherTab](https://github.com/yiyuanlee/AetherTab) | Chrome extension for tab management (MV3) | JavaScript |
-| [VIX Tracker](https://github.com/yiyuanlee/VIX_tracker) | Market volatility monitor with email alerts | Python, GitHub Actions |
-| [Morphix](https://github.com/yiyuanlee/morphix) | Fitness planning web app (CN/EN) | HTML/CSS/JS |
-| [Playlist-Wizard](https://github.com/yiyuanlee/Playlist-Wizard) | Apple Music playlist generator | JavaScript, MusicKit |
-
----
-
-## What I'm Learning Next (2026 Q3–Q4)
-
-Targeting overseas **Full-Stack / Backend Engineer** roles:
-
-- [ ] **FastAPI** — rebuild HotSpot API layer with auth, pagination, OpenAPI docs
-- [ ] **Docker + CI/CD** — containerize MelbScore & AlphaFlow, add GitHub Actions pipelines
-- [ ] **Redis & async jobs** — Celery/RQ for scheduled scraping and background tasks
-- [ ] **System Design** — caching, rate limiting, DB indexing, horizontal scaling basics
-- [ ] **DSA** — 150+ LeetCode (focus: arrays, trees, graphs, DP)
-- [ ] **AWS basics** — EC2, S3, RDS or equivalent cloud deployment literacy
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yiyuanlee&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yiyuanlee)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiyuanlee&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yiyuanlee)
-
-</div>
+- Building and refining **PickStay** and **MelbScore**
+- Strengthening backend architecture, automated testing, and production reliability
+- Open to collaboration, code review, and hiring conversations
 
 ---
 
 <div align="center">
 
-**Open to full-stack and Python backend opportunities — Australia, remote, and global.**
+### Let's build something useful.
 
-Feel free to reach out for collaboration, code review, or hiring conversations.
+[Email me](mailto:liyiyuanzhuhai@gmail.com) · [Explore my repositories](https://github.com/yiyuanlee?tab=repositories)
 
 </div>
